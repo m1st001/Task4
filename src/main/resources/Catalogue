@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<candies
+
+
+>
+
+    <candy name="SuperCandy" type="caramel" filling="false">
+        <id>001</id>
+        <energy>192</energy>
+        <ingridients>
+            <sugar>22</sugar>
+            <fructose>23</fructose>
+            <vanilin>12</vanilin>
+        </ingridients>
+        <value>
+            <proteins>20</proteins>
+            <fats>60</fats>
+            <carbohydrates>72</carbohydrates>
+        </value>
+        <production>SugarPLUS</production>
+    </candy>
+
+    <candy name="SNOCKERS" type="chocolate" filling="false">
+        <id>002</id>
+        <energy>322</energy>
+        <ingridients>
+            <sugar>50</sugar>
+            <fructose>44</fructose>
+            <vanilin>17</vanilin>
+            <peanuts>33</peanuts>
+        </ingridients>
+        <value>
+            <proteins>12</proteins>
+            <fats>55</fats>
+            <carbohydrates>77</carbohydrates>
+        </value>
+        <production>ConfetionaryOne</production>
+    </candy>
+
+    <candy name="Strawberry" type="chocolate" filling="true">
+        <id>003</id>
+        <energy>300</energy>
+        <ingridients>
+            <sugar>40</sugar>
+            <fructose>28</fructose>
+            <strawberry>77</strawberry>
+        </ingridients>
+        <value>
+            <proteins>60</proteins>
+            <fats>60</fats>
+            <carbohydrates>72</carbohydrates>
+        </value>
+        <production>KonditerskyZavod</production>
+    </candy>
+</candies>
